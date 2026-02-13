@@ -1,0 +1,35 @@
+# Файлы базы данных 1С
+*.1CD
+*.cdb
+*.log
+*.lgf
+*.lgp
+*.tmp
+*.temp
+*.v8i
+*.cf
+
+# Настройки пользователя
+*.usr
+*.v8c
+
+# Временные файлы и бэкапы
+*.bak
+*.old
+*.backup
+*~
+
+# Папки с временными данными
+Logs/
+Temp/
+Backup/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Файлы IDE
+.vscode/
+.idea/
+*.iml
